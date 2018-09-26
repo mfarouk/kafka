@@ -1,0 +1,25 @@
+{
+   "SCM": {
+      "application": "Bitbucket",
+      "rating": 8.6,
+      "votes": 201283
+    },
+    "Build": {
+      "application": "Jenkins",
+      "image": "certified",
+      "rating": 9,
+      "reviews": 54,
+      "fresh": 53,
+      "consensus": "A landmark Sergio Leone spaghetti western masterpiece featuring a classic Morricone score.",
+      "userMeter": 95,
+      "userRating": 4.3,
+      "userReviews": 64006
+    },
+    "metacritic": 80,
+    "Artifact": {
+      "wins": 4,
+      "nominations": 5,
+      "text": "4 wins & 5 nominations."
+    },
+    "type": "movie"
+ }
